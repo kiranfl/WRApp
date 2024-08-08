@@ -1,3 +1,6 @@
+[![Watch the video](https://github.com/kiranfl/WRApp/blob/02b4d4b48c41f9fd03158628231b687334674d20/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-08-08%20at%2018.59.37.png)](https://github.com/kiranfl/WRApp/blob/02b4d4b48c41f9fd03158628231b687334674d20/demo.mov)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
